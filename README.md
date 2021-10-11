@@ -1,3 +1,10 @@
+## How use?
+
+### Run command: 
+`react-native init MyProject --template jardelfelp-redux-saga`
+
+This package is avaible on: https://www.npmjs.com/package/react-native-template-jardelfelp-redux-saga
+
 ## Structure
 
 The project was created based on the folder structure of `Atomic Design`.
