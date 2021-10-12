@@ -1,4 +1,4 @@
-## How use?
+## How to use?
 
 ### Run command: 
 `react-native init MyProject --template jardelfelp-redux-saga`
